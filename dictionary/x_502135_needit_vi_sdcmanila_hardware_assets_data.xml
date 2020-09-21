@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="sys_import_set_row" label="sdcmanila_hardware_assets_data" max_length="40" name="x_502135_needit_vi_sdcmanila_hardware_assets_data" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Asset tag" label="Asset tag" max_length="40" name="u_asset_tag" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Managing territory" label="Managing territory" max_length="40" name="u_managing_territory" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Model" label="Model" max_length="40" name="u_model" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Model category" label="Model category" max_length="40" name="u_model_category" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Owned by (primary)" label="Owned by (primary)" max_length="40" name="u_owned_by__primary_" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Owned by (secondary)" label="Owned by (secondary)" max_length="40" name="u_owned_by__secondary_" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Serial number" label="Serial number" max_length="40" name="u_serial_number" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Supported by" label="Supported by" max_length="40" name="u_supported_by" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Sys ID" label="Sys ID" max_length="40" name="u_sys_id" type="string"/>
+    </element>
+</database>
